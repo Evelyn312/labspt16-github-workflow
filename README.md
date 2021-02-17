@@ -29,7 +29,7 @@ The following is a list of steps and instructions on how to complete this guided
   - Name the branch **"feature/add-name"** `git checkout -b 'feature/add-name`
   - **note**: this is the naming convention you will use in Lambda Labs.
   - Once the branch is created run `git branch` to ensure that you've switched to the new branch. (You should be in the habit of doing this by the end of your first week in labs).
-- **Step 3️⃣:** Now that you have created your branch you're ready to work on the repo. Our task for the day is to have you add your name to the list below (**note** the semantically chosen branch name you created coincides with the task at hand) the `### Your name` heading in this README.md file.
+- **Step 3️⃣:** Now that you have created your branch you're ready to work on the repo. Our task for the day is to have you add your name to the list below (**note** the semantically chosen branch name you created coincides with the task at hand) the `### Evelyn Nguyen` heading in this README.md file.
 - **Step 4️⃣:** Run your typical staging, commit and publish commands:
   - `git status` , `git add <file-name>` , `git commit -m 'your message'` , `git push origin <branch-name>`.
   - 💥**note:** you're pushing to your branch NOT to the main branch. (!!VERY IMPORTANT!!)💥
